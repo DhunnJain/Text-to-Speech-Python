@@ -84,18 +84,30 @@ Hello, everyone!
 
 ---
 
-## 📚 Concepts Demonstrated
+## 📚 Key Concepts Demonstrated
 
-- Functions
-- Loops
-- Conditional Statements
-- User Input
-- Exception Handling
-- Operating System Detection
-- Running System Commands using `subprocess`
+- Python functions
+- User input handling
+- Loops and conditional statements
+- Cross-platform programming
+- Operating system detection using the `platform` module
+- Executing system commands with the `subprocess` module
+- Basic exception handling
+- Command-line application development
+- Git and GitHub workflow (repository creation, commits, branches, merging, and pushing changes)
 
 ---
 
+## 🔮 Future Improvements
+
+- Allow users to select different voices.
+- Add speech speed and volume controls.
+- Build a graphical user interface (GUI).
+- Read text from a file and convert it to speech.
+- Save spoken text as an audio file (where supported).
+
+  ---
+  
 ## 📄 License
 
 This project is licensed under the MIT License.
